@@ -23,6 +23,6 @@ Myke Hurley at The Enthusiast for the base design of the example site
 
 Wikimedia Commons for the first logo and other images like the ones on the example site.
 
-##Librarys
+### Librarys
 
 The Feedgen library powering rss and atom feeds
