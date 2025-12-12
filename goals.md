@@ -34,4 +34,7 @@ Create a frontend to make the cms more accessable
 
 ### Homepage.py
 * Finish it
-* 
+* Use a bit more complicated fstring that uses configs instead of hardcoding it in the homepage top and homepage bottom.
+* Create the file as main.html.
+
+
